@@ -3,7 +3,9 @@
 ## Installation
 ```
 npm install
-```
+```yarn global add @graphprotocol/graph-cli
+
+
 
 ## Deploy
 ```
